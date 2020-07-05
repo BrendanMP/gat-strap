@@ -3,5 +3,3 @@
 Gatsby + Strapi starter kit.
 
 
-### Installation
-
